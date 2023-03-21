@@ -1,0 +1,546 @@
+.news-2-child {
+  position: absolute;
+  top: 3674px;
+  left: 0;
+  width: 1441px;
+  height: 587px;
+  object-fit: cover;
+}
+.news-2-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 71px;
+}
+.poruni-3-icon10 {
+  position: relative;
+  width: 61px;
+  height: 61px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.ssb-uni-bandung10 {
+  position: relative;
+  font-weight: 800;
+}
+.poruni-3-parent5 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-2xl);
+}
+.home10 {
+  position: relative;
+  cursor: pointer;
+}
+.home-parent8 {
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-44xl);
+}
+.frame-parent40,
+.frame-wrapper6,
+.home-parent8 {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-wrapper6 {
+  flex-direction: column;
+  padding: var(--padding-3xs);
+  align-items: flex-start;
+}
+.frame-parent40 {
+  position: absolute;
+  top: 3px;
+  left: 31px;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-207xl);
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+}
+.news-2-inner {
+  position: absolute;
+  top: 172px;
+  left: 1562px;
+  width: 6004px;
+  height: 398px;
+}
+.news-wrapper {
+  position: absolute;
+  top: 127px;
+  left: 112px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-17xl);
+}
+.frame-child72 {
+  position: relative;
+  border-radius: var(--br-xl);
+  width: 1272px;
+  height: 416px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.news-2-inner1 {
+  position: absolute;
+  top: 224px;
+  left: 64px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-child73 {
+  position: relative;
+  background-color: var(--color-red);
+  width: 1440px;
+  height: 11px;
+  flex-shrink: 0;
+}
+.poruni-4-icon16 {
+  position: absolute;
+  height: 35.96%;
+  width: 4.72%;
+  top: 8.77%;
+  right: 92.15%;
+  bottom: 55.26%;
+  left: 3.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.div107,
+.por-uni-bandung35 {
+  position: absolute;
+  height: 15.52%;
+  width: 17.22%;
+  top: 21.93%;
+  left: 9.79%;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+}
+.div107 {
+  height: 15.35%;
+  width: 14.93%;
+  top: 40.79%;
+  left: 82.43%;
+  font-size: var(--font-size-smi);
+}
+.jl-baturaden-raya10 {
+  margin: 0;
+}
+.jl-baturaden-raya-container10 {
+  position: absolute;
+  height: 22.37%;
+  width: 18.61%;
+  top: 39.91%;
+  left: 60.63%;
+  font-size: var(--font-size-smi);
+  display: inline-block;
+}
+.addres10,
+.phone10,
+.por-uni-bandung36 {
+  position: absolute;
+  height: 15.35%;
+  width: 14.93%;
+  top: 27.63%;
+  left: 82.43%;
+  display: inline-block;
+}
+.addres10,
+.por-uni-bandung36 {
+  width: 26.25%;
+  top: 84.65%;
+  left: 36.88%;
+}
+.addres10 {
+  width: 14.93%;
+  top: 26.75%;
+  left: 60.63%;
+}
+.poruni-4-parent9 {
+  position: relative;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 228px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.rectangle-parent79 {
+  position: absolute;
+  top: 4255px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.vector-icon11 {
+  position: relative;
+  width: 75.83px;
+  height: 75.83px;
+  flex-shrink: 0;
+}
+.material-symbolsarrow-circle-9 {
+  position: absolute;
+  top: 3674px;
+  left: 1225px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.mdiinstagram-icon12 {
+  position: relative;
+  width: 50px;
+  height: 50px;
+  flex-shrink: 0;
+  overflow: hidden;
+  cursor: pointer;
+}
+.frame-parent42,
+.mdiinstagram-parent9 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+}
+.frame-parent42 {
+  flex-direction: column;
+  align-items: center;
+  gap: var(--gap-30xl);
+}
+.emirates-1-icon10 {
+  position: relative;
+  width: 60px;
+  height: 50px;
+  flex-shrink: 0;
+  object-fit: cover;
+  cursor: pointer;
+}
+.emirates-1-parent6,
+.frame-parent41,
+.sponsors-parent5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-96xl);
+}
+.frame-parent41,
+.sponsors-parent5 {
+  flex-direction: column;
+  align-items: center;
+  gap: var(--gap-39xl);
+}
+.frame-parent41 {
+  position: absolute;
+  top: 3764px;
+  left: 494px;
+  gap: var(--gap-97xl);
+  color: var(--color-black);
+}
+.more-news {
+  position: relative;
+}
+.more-news-wrapper {
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.group-child278 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 953px;
+  height: 281px;
+  cursor: pointer;
+}
+.liga-indonesia-u-17,
+.senin-1332023 {
+  position: absolute;
+  height: 6.76%;
+  width: 68.39%;
+  top: 14.59%;
+  left: 3.25%;
+  display: inline-block;
+}
+.senin-1332023 {
+  width: 7.84%;
+  top: 79.36%;
+  left: 5.42%;
+  font-size: var(--font-size-sm);
+}
+.group-child279 {
+  position: absolute;
+  top: 0;
+  left: 975px;
+  border-radius: var(--br-xl);
+  width: 224px;
+  height: 281px;
+  object-fit: cover;
+}
+.lorem-ipsum-dolor15 {
+  position: absolute;
+  height: 41.99%;
+  width: 71.98%;
+  top: 31.32%;
+  left: 3.25%;
+  font-weight: 500;
+  text-align: justify;
+  display: inline-block;
+}
+.material-symbolsshare-icon {
+  position: absolute;
+  top: 221px;
+  left: 177px;
+  width: 34px;
+  height: 36px;
+  overflow: hidden;
+}
+.group-child280 {
+  position: absolute;
+  top: 216px;
+  left: 151px;
+  background-color: var(--color-black);
+  width: 8px;
+  height: 46px;
+}
+.rectangle-parent80 {
+  position: relative;
+  width: 1199px;
+  height: 281px;
+  flex-shrink: 0;
+}
+.group-child284 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 953px;
+  height: 281px;
+}
+.frame-parent43,
+.group-parent9 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.group-parent9 {
+  align-items: center;
+  gap: 24px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+.frame-parent43 {
+  position: absolute;
+  top: 2292px;
+  left: 112px;
+  align-items: flex-start;
+  gap: var(--gap-34xl);
+  font-size: var(--font-size-13xl);
+}
+.group-child290 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs) 0 0 var(--br-8xs);
+  background-color: var(--color-black);
+  width: 45px;
+  height: 22px;
+}
+.group-child291,
+.group-child292,
+.group-child293,
+.group-child294 {
+  position: absolute;
+  top: 0;
+  left: 45px;
+  background-color: var(--color-gainsboro-100);
+  width: 44px;
+  height: 22px;
+}
+.group-child292,
+.group-child293,
+.group-child294 {
+  left: 89px;
+  width: 46px;
+}
+.group-child293,
+.group-child294 {
+  left: 135px;
+  width: 44px;
+}
+.group-child294 {
+  left: 179px;
+  border-radius: 0 var(--br-8xs) var(--br-8xs) 0;
+  width: 45px;
+}
+.div108 {
+  position: absolute;
+  top: 3px;
+  left: 20px;
+  color: var(--color-white);
+}
+.div109,
+.div110,
+.div111,
+.div112 {
+  position: absolute;
+  top: 2px;
+  left: 64px;
+}
+.div110,
+.div111,
+.div112 {
+  left: 108px;
+}
+.div111,
+.div112 {
+  left: 153px;
+}
+.div112 {
+  left: 198px;
+}
+.rectangle-parent84 {
+  position: absolute;
+  top: 3622px;
+  left: 607px;
+  width: 224px;
+  height: 22px;
+  color: var(--color-black);
+}
+.liga-indonesia-u-174 {
+  position: absolute;
+  height: 0.42%;
+  width: 77.64%;
+  top: 12.26%;
+  left: 7.85%;
+  font-size: var(--font-size-21xl);
+  font-weight: 900;
+  display: inline-block;
+}
+.senin-1332023-1945-wrapper {
+  position: absolute;
+  top: 808px;
+  left: 112px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.mdicontact-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.uni-editorial {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 144px;
+  height: 19px;
+  flex-shrink: 0;
+}
+.mdicontact-parent {
+  position: absolute;
+  top: 787px;
+  left: 122px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-10xs);
+}
+.frame-parent44,
+.mdiinstagram-parent10 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-27xl);
+}
+.frame-parent44 {
+  position: absolute;
+  top: 2080px;
+  left: 983px;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--gap-mini);
+}
+.lorem-ipsum-dolor19 {
+  font-size: var(--font-size-13xl);
+}
+.lorem-ipsum-dolor-container2,
+.lorem-ipsum-dolor20 {
+  position: relative;
+  display: inline-block;
+  width: 1205px;
+  flex-shrink: 0;
+}
+.lorem-ipsum-dolor20 {
+  font-weight: 500;
+  width: 1196px;
+}
+.frame-child74 {
+  position: relative;
+  border-radius: var(--br-xl);
+  width: 1194px;
+  height: 281px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.frame-parent45,
+.rectangle-wrapper50 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-wrapper50 {
+  width: 855px;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.frame-parent45 {
+  position: absolute;
+  top: 861px;
+  left: 112px;
+  gap: var(--gap-34xl);
+  text-align: justify;
+  font-size: var(--font-size-xl);
+}
+.news-2 {
+  position: relative;
+  width: 100%;
+  height: 4494px;
+  overflow: hidden;
+  background-image: url(./public/gallery@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

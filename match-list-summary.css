@@ -1,0 +1,510 @@
+.match-list-summary-child {
+  position: absolute;
+  top: 303px;
+  left: 92px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1199px;
+  height: 874px;
+}
+.match-list-summary-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 71px;
+}
+.home7 {
+  cursor: pointer;
+}
+.home7,
+.teams7 {
+  position: relative;
+}
+.home-parent5,
+.ssb-uni-bandung7 {
+  position: absolute;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+}
+.home-parent5 {
+  top: 26px;
+  left: 487px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-44xl);
+}
+.ssb-uni-bandung7 {
+  top: 25px;
+  left: 113px;
+  font-weight: 800;
+}
+.poruni-3-icon7 {
+  position: absolute;
+  top: 3px;
+  left: 31px;
+  width: 61px;
+  height: 61px;
+  object-fit: cover;
+}
+.match-list-summary-inner {
+  position: absolute;
+  top: 172px;
+  left: 1562px;
+  width: 6004px;
+  height: 398px;
+}
+.frame-child68 {
+  position: relative;
+  background-color: var(--color-red);
+  width: 1440px;
+  height: 11px;
+  flex-shrink: 0;
+}
+.poruni-4-icon11 {
+  position: absolute;
+  height: 35.96%;
+  width: 4.72%;
+  top: 8.77%;
+  right: 92.15%;
+  bottom: 55.26%;
+  left: 3.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.div39,
+.por-uni-bandung17 {
+  position: absolute;
+  height: 15.52%;
+  width: 17.22%;
+  top: 21.93%;
+  left: 9.79%;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+}
+.div39 {
+  height: 15.35%;
+  width: 14.93%;
+  top: 40.79%;
+  left: 82.43%;
+  font-size: var(--font-size-smi);
+}
+.jl-baturaden-raya7 {
+  margin: 0;
+}
+.jl-baturaden-raya-container7 {
+  position: absolute;
+  height: 22.37%;
+  width: 18.61%;
+  top: 39.91%;
+  left: 60.63%;
+  font-size: var(--font-size-smi);
+  display: inline-block;
+}
+.addres7,
+.phone7,
+.por-uni-bandung18 {
+  position: absolute;
+  height: 15.35%;
+  width: 14.93%;
+  top: 27.63%;
+  left: 82.43%;
+  display: inline-block;
+}
+.addres7,
+.por-uni-bandung18 {
+  width: 26.25%;
+  top: 84.65%;
+  left: 36.88%;
+}
+.addres7 {
+  width: 14.93%;
+  top: 26.75%;
+  left: 60.63%;
+}
+.poruni-4-parent6 {
+  position: relative;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 228px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.rectangle-parent66 {
+  position: absolute;
+  top: 1748px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.vector-icon7 {
+  position: relative;
+  width: 75.83px;
+  height: 75.83px;
+  flex-shrink: 0;
+}
+.material-symbolsarrow-circle-6 {
+  position: absolute;
+  top: 1323px;
+  left: 1230px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.icbaseline-tiktok-icon7 {
+  position: absolute;
+  top: 1343px;
+  left: 794px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.icbaseline-facebook-icon9,
+.mdiinstagram-icon9,
+.mditwitter-icon9,
+.mdiyoutube-icon7 {
+  position: absolute;
+  top: 1343px;
+  left: 894px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.icbaseline-facebook-icon9,
+.mdiinstagram-icon9,
+.mditwitter-icon9 {
+  left: 694px;
+}
+.icbaseline-facebook-icon9,
+.mdiinstagram-icon9 {
+  left: 594px;
+}
+.mdiinstagram-icon9 {
+  left: 494px;
+}
+.follow-us7,
+.sponsors7 {
+  position: absolute;
+  top: 1509px;
+  left: 686px;
+  font-size: var(--font-size-sm);
+}
+.follow-us7 {
+  top: 1267px;
+  left: 684px;
+}
+.adidas-120x100-1-icon7,
+.emirates-1-icon7 {
+  position: absolute;
+  top: 1584px;
+  left: 783px;
+  width: 60px;
+  height: 50px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.emirates-1-icon7 {
+  left: 608px;
+}
+.match-summary,
+.matches1 {
+  position: absolute;
+  height: 4.92%;
+  width: 22.71%;
+  top: 7%;
+  left: 6.39%;
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+}
+.match-summary {
+  top: 237px;
+  left: 92px;
+  font-size: var(--font-size-9xl);
+  width: 298px;
+  height: 34px;
+}
+.rifootball-fill-icon1 {
+  position: absolute;
+  top: 350px;
+  left: 126px;
+  width: 70px;
+  height: 71px;
+  overflow: hidden;
+}
+.rifootball-fill-icon2,
+.rifootball-fill-icon3,
+.rifootball-fill-icon4 {
+  position: absolute;
+  top: 638px;
+  left: 474px;
+  width: 22px;
+  height: 22px;
+  overflow: hidden;
+}
+.rifootball-fill-icon3,
+.rifootball-fill-icon4 {
+  top: 793px;
+  left: 477px;
+}
+.rifootball-fill-icon4 {
+  top: 940px;
+}
+.por-uni-bandung19,
+.sabtu-5-maret1,
+.saswco-fc1,
+.u-66 {
+  position: absolute;
+  top: 345px;
+  left: 216px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 228px;
+  height: 27px;
+}
+.por-uni-bandung19,
+.saswco-fc1,
+.u-66 {
+  top: 421px;
+  left: 706px;
+  font-size: var(--font-size-3xl);
+  width: 40px;
+}
+.por-uni-bandung19,
+.saswco-fc1 {
+  top: 444px;
+  left: 426px;
+  font-size: var(--font-size-xl);
+  width: 229px;
+}
+.saswco-fc1 {
+  top: 441px;
+  left: 813px;
+  width: 142px;
+}
+.lapangan-por-uni1,
+.liga-danone-indonesia1 {
+  position: absolute;
+  top: 373px;
+  left: 216px;
+  font-weight: 600;
+  display: inline-block;
+  width: 227px;
+  height: 23px;
+}
+.lapangan-por-uni1 {
+  top: 350px;
+  left: 702px;
+  font-size: var(--font-size-mini);
+  font-weight: 500;
+  width: 219px;
+  height: 40px;
+}
+.poruni-8-icon,
+.saswco-5-icon {
+  position: absolute;
+  top: 468px;
+  left: 496px;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.saswco-5-icon {
+  top: 471px;
+  left: 847px;
+  height: 59.21px;
+}
+.wib2 {
+  position: absolute;
+  top: 352px;
+  left: 1174px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  text-align: center;
+  width: 63px;
+  height: 54px;
+}
+.icbaseline-access-time-icon1,
+.material-symbolslocation-on-icon1 {
+  position: absolute;
+  top: 354px;
+  left: 668px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.icbaseline-access-time-icon1 {
+  top: 350px;
+  left: 1154px;
+}
+.summary3 {
+  position: absolute;
+  top: 476px;
+  left: 298px;
+  font-size: var(--font-size-sm);
+  font-weight: 900;
+  color: var(--color-white);
+  display: inline-block;
+  width: 85px;
+  height: 20px;
+}
+.match-list-summary-child1,
+.match-list-summary-child2 {
+  position: absolute;
+  top: 546px;
+  left: 499px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-black);
+  width: 53px;
+  height: 53px;
+}
+.match-list-summary-child2 {
+  left: 852px;
+}
+.b {
+  position: absolute;
+  top: 555px;
+  left: 517px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-white);
+}
+.div40 {
+  top: 640px;
+  left: 717px;
+}
+.div40,
+.div41,
+.div42 {
+  position: absolute;
+}
+.div41 {
+  top: 795px;
+  left: 713px;
+  display: inline-block;
+  width: 19px;
+}
+.div42 {
+  top: 707px;
+  left: 718px;
+}
+.div43,
+.div44,
+.febri {
+  position: absolute;
+  top: 864px;
+  left: 717px;
+}
+.div44,
+.febri {
+  top: 941px;
+}
+.febri {
+  top: 640px;
+  left: 505px;
+}
+.febri1,
+.febri2,
+.hanz,
+.m-adam {
+  position: absolute;
+  top: 795px;
+  left: 508px;
+}
+.febri2,
+.hanz,
+.m-adam {
+  top: 942px;
+}
+.hanz,
+.m-adam {
+  top: 699px;
+  left: 858px;
+}
+.m-adam {
+  top: 854px;
+  left: 861px;
+}
+.ahsan,
+.ahsan1,
+.b1 {
+  position: absolute;
+  top: 665px;
+  left: 505px;
+}
+.ahsan1,
+.b1 {
+  top: 820px;
+  left: 508px;
+}
+.b1 {
+  top: 556px;
+  left: 873px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-white);
+}
+.mdicards-icon,
+.mdicards-icon1,
+.mdifootball-play-icon,
+.mdifootball-play-icon1 {
+  position: absolute;
+  top: 666px;
+  left: 475px;
+  width: 19px;
+  height: 19px;
+  overflow: hidden;
+}
+.mdicards-icon,
+.mdicards-icon1,
+.mdifootball-play-icon1 {
+  top: 821px;
+  left: 478px;
+}
+.mdicards-icon,
+.mdicards-icon1 {
+  top: 699px;
+  left: 907px;
+  width: 24px;
+  height: 24px;
+}
+.mdicards-icon1 {
+  top: 854px;
+  left: 944px;
+}
+.lorem-ipsum-dolor14 {
+  position: absolute;
+  height: 5.28%;
+  width: 75.63%;
+  top: 52.74%;
+  left: 11.18%;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  text-align: justify;
+  display: inline-block;
+}
+.match-list-summary {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1987px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

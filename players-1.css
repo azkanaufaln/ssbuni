@@ -1,0 +1,698 @@
+.players-1-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 71px;
+}
+.poruni-3-icon6 {
+  position: relative;
+  width: 61px;
+  height: 61px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.ssb-uni-bandung6 {
+  position: relative;
+  font-weight: 800;
+}
+.poruni-3-parent2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-2xl);
+}
+.home6 {
+  cursor: pointer;
+}
+.about7,
+.home6 {
+  position: relative;
+}
+.home-parent4 {
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-44xl);
+}
+.frame-parent24,
+.frame-wrapper3,
+.home-parent4 {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-wrapper3 {
+  flex-direction: column;
+  padding: var(--padding-3xs);
+  align-items: flex-start;
+}
+.frame-parent24 {
+  position: absolute;
+  top: 3px;
+  left: 31px;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-207xl);
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+}
+.players-1-item {
+  position: absolute;
+  top: -46px;
+  left: 1562px;
+  width: 6004px;
+  height: 398px;
+}
+.frame-child67 {
+  position: relative;
+  background-color: var(--color-red);
+  width: 1440px;
+  height: 11px;
+  flex-shrink: 0;
+}
+.poruni-4-icon10 {
+  position: absolute;
+  height: 35.96%;
+  width: 4.72%;
+  top: 8.77%;
+  right: 92.15%;
+  bottom: 55.26%;
+  left: 3.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.div37,
+.por-uni-bandung15 {
+  position: absolute;
+  height: 15.52%;
+  width: 17.22%;
+  top: 21.93%;
+  left: 9.79%;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+}
+.div37 {
+  height: 15.35%;
+  width: 14.93%;
+  top: 40.79%;
+  left: 82.43%;
+  font-size: var(--font-size-smi);
+}
+.jl-baturaden-raya6 {
+  margin: 0;
+}
+.jl-baturaden-raya-container6 {
+  position: absolute;
+  height: 22.37%;
+  width: 18.61%;
+  top: 39.91%;
+  left: 60.63%;
+  font-size: var(--font-size-smi);
+  display: inline-block;
+}
+.addres6,
+.phone6,
+.por-uni-bandung16 {
+  position: absolute;
+  height: 15.35%;
+  width: 14.93%;
+  top: 27.63%;
+  left: 82.43%;
+  display: inline-block;
+}
+.addres6,
+.por-uni-bandung16 {
+  width: 26.25%;
+  top: 84.65%;
+  left: 36.88%;
+}
+.addres6 {
+  width: 14.93%;
+  top: 26.75%;
+  left: 60.63%;
+}
+.poruni-4-parent5 {
+  position: relative;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 228px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.rectangle-parent48 {
+  position: absolute;
+  top: 3623px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-sm);
+}
+.vector-icon6 {
+  position: relative;
+  width: 75.83px;
+  height: 75.83px;
+  flex-shrink: 0;
+}
+.material-symbolsarrow-circle-5 {
+  position: absolute;
+  top: 2938px;
+  left: 1222px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.mdiinstagram-icon8 {
+  position: relative;
+  width: 50px;
+  height: 50px;
+  flex-shrink: 0;
+  overflow: hidden;
+  cursor: pointer;
+}
+.frame-parent26,
+.mdiinstagram-parent6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+}
+.frame-parent26 {
+  flex-direction: column;
+  align-items: center;
+  gap: var(--gap-30xl);
+}
+.emirates-1-icon6 {
+  position: relative;
+  width: 60px;
+  height: 50px;
+  flex-shrink: 0;
+  object-fit: cover;
+  cursor: pointer;
+}
+.emirates-1-parent3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-96xl);
+}
+.sponsors-parent3 {
+  flex-direction: column;
+  align-items: center;
+  gap: var(--gap-39xl);
+}
+.frame-parent25,
+.players-container,
+.sponsors-parent3 {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-parent25 {
+  position: absolute;
+  top: 3132px;
+  left: 494px;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--gap-97xl);
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.players-container {
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: flex-start;
+}
+.group-child104,
+.group-child105 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro-100);
+  width: 710px;
+  height: 41px;
+}
+.group-child105 {
+  border-radius: var(--br-xl) 0 0 var(--br-xl);
+  background-color: var(--color-darkslategray);
+  width: 101px;
+}
+.group-child106,
+.group-child107,
+.group-child108,
+.group-child109,
+.group-child110 {
+  position: absolute;
+  top: 0;
+  left: 122px;
+  background-color: var(--color-gainsboro-100);
+  width: 101px;
+  height: 41px;
+}
+.group-child107,
+.group-child108,
+.group-child109,
+.group-child110 {
+  left: 244px;
+}
+.group-child108,
+.group-child109,
+.group-child110 {
+  left: 366px;
+}
+.group-child109,
+.group-child110 {
+  left: 488px;
+}
+.group-child110 {
+  left: 609px;
+  border-radius: 0 var(--br-xl) var(--br-xl) 0;
+}
+.u-65,
+.u-84 {
+  position: absolute;
+  top: 6px;
+  left: 28px;
+}
+.u-84 {
+  left: 150px;
+}
+.u-114,
+.u-134,
+.u-154,
+.u-175 {
+  position: absolute;
+  top: 6px;
+  left: 272px;
+}
+.u-134,
+.u-154,
+.u-175 {
+  left: 394px;
+}
+.u-154,
+.u-175 {
+  left: 516px;
+}
+.u-175 {
+  left: 625px;
+}
+.rectangle-parent49 {
+  position: relative;
+  width: 710px;
+  height: 41px;
+  flex-shrink: 0;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+}
+.frame-parent27 {
+  position: absolute;
+  top: 633px;
+  left: 88px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 52px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+}
+.group-child111 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 261px;
+  height: 467px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.group-child112 {
+  position: absolute;
+  top: 378px;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 262px;
+  height: 89px;
+}
+.kroos1,
+.midfielder {
+  position: absolute;
+  top: 394px;
+  left: 102px;
+  font-weight: 900;
+}
+.midfielder {
+  top: 433px;
+  left: 84px;
+  font-weight: 300;
+}
+.group-child113,
+.rectangle-parent50 {
+  position: absolute;
+  top: 1775px;
+  left: 160px;
+  width: 262px;
+  height: 467px;
+}
+.group-child113 {
+  top: 0;
+  left: 0;
+  object-fit: cover;
+  cursor: pointer;
+}
+.kroos2,
+.midfielder1 {
+  position: absolute;
+  top: 429px;
+  left: 81px;
+  font-weight: 300;
+}
+.kroos2 {
+  top: 394px;
+  left: 99px;
+  font-weight: 900;
+}
+.group-child116,
+.rectangle-parent51 {
+  position: absolute;
+  top: 1775px;
+  left: 437px;
+  width: 262px;
+  height: 467px;
+}
+.group-child116 {
+  top: 378px;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 261px;
+  height: 89px;
+}
+.midfielder2 {
+  position: absolute;
+  top: 429px;
+  left: 84px;
+  font-weight: 300;
+}
+.rectangle-parent52 {
+  position: absolute;
+  top: 1775px;
+  left: 714px;
+  width: 262px;
+  height: 467px;
+}
+.goalkeeper,
+.luis10,
+.luis11,
+.luis12,
+.luis9 {
+  position: absolute;
+  top: 1641px;
+  left: 863px;
+  font-weight: 900;
+}
+.goalkeeper,
+.luis10,
+.luis11,
+.luis12 {
+  top: 2108px;
+}
+.goalkeeper,
+.luis11,
+.luis12 {
+  top: 2576px;
+}
+.goalkeeper,
+.luis12 {
+  top: 394px;
+  left: 109px;
+}
+.goalkeeper {
+  top: 422px;
+  left: 74px;
+  font-weight: 300;
+}
+.rectangle-parent53 {
+  position: relative;
+  width: 262px;
+  height: 467px;
+  flex-shrink: 0;
+}
+.goalkeeper1,
+.luis13 {
+  position: absolute;
+  top: 422px;
+  left: 73px;
+  font-weight: 300;
+}
+.luis13 {
+  top: 394px;
+  left: 108px;
+  font-weight: 900;
+}
+.group-child123 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 262px;
+  height: 467px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.rectangle-parent56 {
+  position: relative;
+  width: 263px;
+  height: 467px;
+  flex-shrink: 0;
+}
+.group-parent5 {
+  position: absolute;
+  top: 841px;
+  left: 160px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+}
+.defender,
+.defender3 {
+  position: absolute;
+  top: 422px;
+  left: 84px;
+  font-weight: 300;
+}
+.defender3 {
+  left: 86px;
+}
+.group-parent6 {
+  position: absolute;
+  top: 1308px;
+  left: 160px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+}
+.kroos4,
+.midfielder3 {
+  position: absolute;
+  top: 434px;
+  left: 83px;
+  font-weight: 300;
+}
+.kroos4 {
+  top: 394px;
+  left: 98px;
+  font-weight: 900;
+}
+.rectangle-parent61 {
+  position: absolute;
+  top: 1775px;
+  left: 990px;
+  width: 263px;
+  height: 467px;
+}
+.forward {
+  position: absolute;
+  top: 422px;
+  left: 90px;
+  font-weight: 300;
+}
+.rectangle-parent62 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 262px;
+  height: 467px;
+}
+.forward1 {
+  position: absolute;
+  top: 427px;
+  left: 89px;
+  font-weight: 300;
+}
+.rectangle-parent63 {
+  position: absolute;
+  top: 0;
+  left: 277px;
+  width: 262px;
+  height: 467px;
+}
+.forward2 {
+  position: absolute;
+  top: 428px;
+  left: 89px;
+  font-weight: 300;
+}
+.rectangle-parent64 {
+  position: absolute;
+  top: 0;
+  left: 554px;
+  width: 262px;
+  height: 467px;
+}
+.forward3 {
+  position: absolute;
+  top: 428px;
+  left: 91px;
+  font-weight: 300;
+}
+.group-parent7,
+.rectangle-parent65 {
+  position: absolute;
+  top: 0;
+  left: 830px;
+  width: 263px;
+  height: 467px;
+}
+.group-parent7 {
+  top: 2243px;
+  left: 160px;
+  width: 1093px;
+}
+.luis24,
+.luis25,
+.luis26 {
+  position: absolute;
+  top: 1641px;
+  left: 1136px;
+  font-weight: 900;
+}
+.luis25,
+.luis26 {
+  top: 2108px;
+}
+.luis26 {
+  top: 2576px;
+}
+.goalkeepers4,
+.goalkeepers5,
+.goalkeepers6 {
+  position: absolute;
+  top: 1663px;
+  left: 262px;
+}
+.goalkeepers5,
+.goalkeepers6 {
+  top: 2130px;
+}
+.goalkeepers6 {
+  top: 2598px;
+}
+.goalkeepers7,
+.goalkeepers8,
+.goalkeepers9 {
+  position: absolute;
+  top: 1663px;
+  left: 536px;
+}
+.goalkeepers8,
+.goalkeepers9 {
+  top: 2130px;
+}
+.goalkeepers9 {
+  top: 2598px;
+}
+.goalkeepers10,
+.goalkeepers11 {
+  position: absolute;
+  top: 1668px;
+  left: 827px;
+}
+.goalkeepers11 {
+  top: 2135px;
+}
+.goalkeepers12,
+.goalkeepers13 {
+  position: absolute;
+  top: 2603px;
+  left: 827px;
+}
+.goalkeepers13 {
+  top: 1668px;
+  left: 1100px;
+}
+.goalkeepers14,
+.goalkeepers15 {
+  position: absolute;
+  top: 2135px;
+  left: 1100px;
+}
+.goalkeepers15 {
+  top: 2603px;
+}
+.group-child143 {
+  object-fit: cover;
+}
+.group-child143,
+.rectangle-wrapper49 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 504px;
+}
+.div38 {
+  position: relative;
+  font-size: var(--font-size-21xl);
+  font-weight: 300;
+}
+.our-squad-parent {
+  position: absolute;
+  top: 186px;
+  left: 124px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.group-parent8 {
+  position: absolute;
+  top: 70px;
+  left: 0;
+  width: 1440px;
+  height: 504px;
+  font-size: var(--font-size-45xl);
+}
+.players-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 3862px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

@@ -1,0 +1,398 @@
+.match-list-summary-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 71px;
+}
+.poruni-3-icon8 {
+  position: relative;
+  width: 61px;
+  height: 61px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.ssb-uni-bandung8 {
+  position: relative;
+  font-weight: 800;
+}
+.poruni-3-parent3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-2xl);
+}
+.home8 {
+  cursor: pointer;
+}
+.about9,
+.home8 {
+  position: relative;
+}
+.home-parent6 {
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-44xl);
+}
+.frame-parent28,
+.frame-wrapper4,
+.home-parent6 {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-wrapper4 {
+  flex-direction: column;
+  padding: var(--padding-3xs);
+  align-items: flex-start;
+}
+.frame-parent28 {
+  position: absolute;
+  top: 3px;
+  left: 31px;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-207xl);
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+}
+.match-list-summary-child4 {
+  position: absolute;
+  top: 172px;
+  left: 1562px;
+  width: 6004px;
+  height: 398px;
+}
+.frame-child69 {
+  position: relative;
+  background-color: var(--color-red);
+  width: 1440px;
+  height: 11px;
+  flex-shrink: 0;
+}
+.poruni-4-icon12 {
+  position: absolute;
+  height: 35.96%;
+  width: 4.72%;
+  top: 8.77%;
+  right: 92.15%;
+  bottom: 55.26%;
+  left: 3.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.div45,
+.por-uni-bandung20 {
+  position: absolute;
+  height: 15.52%;
+  width: 17.22%;
+  top: 21.93%;
+  left: 9.79%;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+}
+.div45 {
+  height: 15.35%;
+  width: 14.93%;
+  top: 40.79%;
+  left: 82.43%;
+  font-size: var(--font-size-smi);
+}
+.jl-baturaden-raya8 {
+  margin: 0;
+}
+.jl-baturaden-raya-container8 {
+  position: absolute;
+  height: 22.37%;
+  width: 18.61%;
+  top: 39.91%;
+  left: 60.63%;
+  font-size: var(--font-size-smi);
+  display: inline-block;
+}
+.addres8,
+.phone8,
+.por-uni-bandung21 {
+  position: absolute;
+  height: 15.35%;
+  width: 14.93%;
+  top: 27.63%;
+  left: 82.43%;
+  display: inline-block;
+}
+.addres8,
+.por-uni-bandung21 {
+  width: 26.25%;
+  top: 84.65%;
+  left: 36.88%;
+}
+.addres8 {
+  width: 14.93%;
+  top: 26.75%;
+  left: 60.63%;
+}
+.poruni-4-parent7 {
+  position: relative;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 228px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.rectangle-parent67 {
+  position: absolute;
+  top: 1746px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.vector-icon8 {
+  position: relative;
+  width: 75.83px;
+  height: 75.83px;
+  flex-shrink: 0;
+}
+.material-symbolsarrow-circle-7 {
+  position: absolute;
+  top: 1061px;
+  left: 1252px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.mdiinstagram-icon10 {
+  position: relative;
+  width: 50px;
+  height: 50px;
+  flex-shrink: 0;
+  overflow: hidden;
+  cursor: pointer;
+}
+.mdiinstagram-parent7 {
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-31xl);
+}
+.follow-us-parent2,
+.mdiinstagram-parent7,
+.sponsors-frame {
+  display: flex;
+  justify-content: flex-start;
+}
+.follow-us-parent2 {
+  flex-direction: column;
+  align-items: center;
+  gap: var(--gap-40xl);
+}
+.sponsors-frame {
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: flex-start;
+}
+.emirates-1-icon8 {
+  position: relative;
+  width: 60px;
+  height: 50px;
+  flex-shrink: 0;
+  object-fit: cover;
+  cursor: pointer;
+}
+.emirates-1-parent4,
+.frame-parent29,
+.frame-parent30 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-96xl);
+}
+.frame-parent29,
+.frame-parent30 {
+  flex-direction: column;
+  align-items: center;
+  gap: var(--gap-29xl);
+}
+.frame-parent29 {
+  position: absolute;
+  top: 1265px;
+  left: 524px;
+  gap: var(--gap-87xl);
+  color: var(--color-black);
+}
+.frame-parent32,
+.match-summary-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.match-summary-wrapper {
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  font-size: var(--font-size-9xl);
+}
+.frame-parent32 {
+  flex-direction: column;
+  gap: var(--gap-31xl);
+}
+.group-child144 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1199px;
+  height: 727px;
+}
+.rifootball-fill-icon5 {
+  position: absolute;
+  top: 41px;
+  left: 34px;
+  width: 70px;
+  height: 71px;
+  overflow: hidden;
+}
+.sabtu-5-maret2,
+.u-67 {
+  position: absolute;
+  top: 36px;
+  left: 124px;
+  display: inline-block;
+  width: 228px;
+  height: 27px;
+}
+.u-67 {
+  top: 9px;
+  left: 811px;
+  font-size: var(--font-size-3xl);
+  width: 40px;
+}
+.liga-danone-indonesia2,
+.por-uni-bandung22,
+.saswco-fc2 {
+  position: absolute;
+  top: 32px;
+  left: 531px;
+  display: inline-block;
+  width: 229px;
+  height: 27px;
+}
+.liga-danone-indonesia2,
+.saswco-fc2 {
+  top: 29px;
+  left: 912px;
+  width: 142px;
+}
+.liga-danone-indonesia2 {
+  top: 64px;
+  left: 124px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  width: 227px;
+  height: 23px;
+}
+.vivamus-nibh-leo2 {
+  top: 204px;
+  left: 39px;
+  text-align: justify;
+  width: 1105px;
+  height: 201px;
+}
+.lapangan-por-uni2,
+.vivamus-nibh-leo2,
+.vivamus-nibh-leo3 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.vivamus-nibh-leo3 {
+  top: 425px;
+  left: 40px;
+  text-align: justify;
+  width: 1105px;
+  height: 201px;
+}
+.lapangan-por-uni2 {
+  top: 96px;
+  left: 156px;
+  font-size: var(--font-size-mini);
+  width: 219px;
+  height: 40px;
+}
+.poruni-4-icon13,
+.saswco-1-icon1 {
+  position: absolute;
+  top: 56px;
+  left: 601px;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.saswco-1-icon1 {
+  top: 59px;
+  left: 952px;
+  height: 59.21px;
+}
+.wib4 {
+  position: absolute;
+  top: 77px;
+  left: 800px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  text-align: center;
+  width: 63px;
+  height: 54px;
+}
+.icbaseline-access-time-icon2,
+.material-symbolslocation-on-icon2 {
+  position: absolute;
+  top: 100px;
+  left: 122px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.icbaseline-access-time-icon2 {
+  top: 51px;
+  left: 819px;
+}
+.rectangle-parent68 {
+  position: relative;
+  width: 1199px;
+  height: 727px;
+  flex-shrink: 0;
+  font-size: var(--font-size-xl);
+}
+.frame-parent31 {
+  position: absolute;
+  top: 90px;
+  left: 112px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-37xl);
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+}
+.match-list-summary1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1987px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}
